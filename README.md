@@ -10,4 +10,6 @@ This page should use everything I learned in the HTML Foundations lessons, inclu
 
 - Use tags such as src="", href="", etc.
 
-- Use and create a page with git.
+- Use git commands.
+
+- Make an online page with Github.
